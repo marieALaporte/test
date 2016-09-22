@@ -1,0 +1,13 @@
+@prefix :      <http://purl.obolibrary.org/obo/pdo.owl#> .
+@prefix oio:   <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix oboInOwl: <http://www.geneontology.org/formats/oboInOwl#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix pdo:   <http://purl.obolibrary.org/obo/pdo#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix obo:   <http://purl.obolibrary.org/obo/> .
+
+obo:PDO_0000216  owl:equivalentTo  obo:PDO_0000073 .
+
+obo:PDO_0000239  owl:equivalentTo  obo:PDO_0000259 , obo:PDO_0000258 .
