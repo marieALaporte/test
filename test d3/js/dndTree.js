@@ -27,7 +27,37 @@ EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.*/
 
 // Get JSON data
 treeJSON = d3.json("graphDnd.json", function(error, treeData) {
+    var duplicatedNodes = "";
+    var count = 0;
+    // create a name: node map
+    var dataMap = treeData.reduce(function(map, node) {
+        if(map[node.name]){
+            duplicatedNodes=duplicatedNodes+node.name+"|";
+            count++;
+        }
+        map[node.name] = node;
+        return map;
+    }, {});
+    console.log(duplicatedNodes);
+    console.log(count);
+    // create the tree array
+    var tree = {};
+    treeData.forEach(function(node) {
+        // add to parent
+        var parent = dataMap[node.parent];
+        if (parent) {
+            // create child array if it doesn't exist
+            (parent.children || (parent.children = []))
+                // add node to child array
+                .push(node);
+        } else {
+            // parent is null or missing
+            //tree.push(node);
+            tree.name=node.name;tree.children=node.children;
+        }
+    });
 
+    treeData = tree
     // Calculate total nodes, max label length
     var totalNodes = 0;
     var maxLabelLength = 0;

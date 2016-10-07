@@ -93,11 +93,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000744" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000877" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000877" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000744" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -485,11 +485,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002747" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002614" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002614" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002747" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -577,11 +577,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000357" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000742" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000875" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000875" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000742" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -593,11 +593,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000766" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000899" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000899" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000766" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -765,11 +765,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000277" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000197" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000064" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000064" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000197" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -2117,11 +2117,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002743" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002610" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002610" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002743" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -2721,11 +2721,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000234" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000367" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000367" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000234" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -3045,11 +3045,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000597" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000888" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000755" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000755" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000888" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -3341,11 +3341,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000070" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006039" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006039" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000070" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -3637,11 +3637,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000753" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000886" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000886" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000753" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -3905,11 +3905,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000715" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000848" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000848" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000715" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -5193,11 +5193,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002623" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002756" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002756" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002623" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -5421,11 +5421,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000597" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002734" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002601" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002601" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002734" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -5457,11 +5457,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002758" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002625" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002625" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002758" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
@@ -5581,11 +5581,11 @@
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000371" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002751" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000487" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {
-        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000487" } ,
+        "sub": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002751" } ,
         "mid": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" }
       } ,
       {

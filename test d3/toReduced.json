@@ -518,37 +518,37 @@
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000489" } ,
         "xlabel": { "type": "literal" , "value": "carbohydrate composition related trait" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "olabel": { "type": "literal" , "value": "seed composition quality trait" }
+        "olabel": { "type": "literal" , "value": "seed composition based quality trait" }
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000491" } ,
         "xlabel": { "type": "literal" , "value": "fat and essential oil composition related trait" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "olabel": { "type": "literal" , "value": "seed composition quality trait" }
+        "olabel": { "type": "literal" , "value": "seed composition based quality trait" }
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000228" } ,
         "xlabel": { "type": "literal" , "value": "moisture content related trait" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "olabel": { "type": "literal" , "value": "seed composition quality trait" }
+        "olabel": { "type": "literal" , "value": "seed composition based quality trait" }
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000611" } ,
         "xlabel": { "type": "literal" , "value": "malt-extract percentage" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "olabel": { "type": "literal" , "value": "seed composition quality trait" }
+        "olabel": { "type": "literal" , "value": "seed composition based quality trait" }
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000087" } ,
         "xlabel": { "type": "literal" , "value": "aroma" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "olabel": { "type": "literal" , "value": "seed composition quality trait" }
+        "olabel": { "type": "literal" , "value": "seed composition based quality trait" }
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000490" } ,
         "xlabel": { "type": "literal" , "value": "seed protein composition trait" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "olabel": { "type": "literal" , "value": "seed composition quality trait" }
+        "olabel": { "type": "literal" , "value": "seed composition based quality trait" }
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000892" } ,
@@ -1111,18 +1111,6 @@
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000062" } ,
         "xlabel": { "type": "literal" , "value": "phenol reaction" } ,
-        "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000489" } ,
-        "olabel": { "type": "literal" , "value": "carbohydrate composition related trait" }
-      } ,
-      {
-        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000097" } ,
-        "xlabel": { "type": "literal" , "value": "amylopectin content" } ,
-        "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000489" } ,
-        "olabel": { "type": "literal" , "value": "carbohydrate composition related trait" }
-      } ,
-      {
-        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000696" } ,
-        "xlabel": { "type": "literal" , "value": "starch content" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000489" } ,
         "olabel": { "type": "literal" , "value": "carbohydrate composition related trait" }
       } ,
@@ -1926,7 +1914,7 @@
       } ,
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000488" } ,
-        "xlabel": { "type": "literal" , "value": "seed composition quality trait" } ,
+        "xlabel": { "type": "literal" , "value": "seed composition based quality trait" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000931" } ,
         "olabel": { "type": "literal" , "value": "seed quality trait" }
       } ,
@@ -3563,12 +3551,6 @@
         "olabel": { "type": "literal" , "value": "average grain weight" }
       } ,
       {
-        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000373" } ,
-        "xlabel": { "type": "literal" , "value": "inflorescence morphology trait" } ,
-        "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000786" } ,
-        "olabel": { "type": "literal" , "value": "reproductive shoot system morphology trait" }
-      } ,
-      {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000920" } ,
         "xlabel": { "type": "literal" , "value": "infructescence morphology trait" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000786" } ,
@@ -3643,12 +3625,6 @@
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000138" } ,
         "xlabel": { "type": "literal" , "value": "brown rice protein" } ,
-        "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000598" } ,
-        "olabel": { "type": "literal" , "value": "protein content" }
-      } ,
-      {
-        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000610" } ,
-        "xlabel": { "type": "literal" , "value": "soluble to total protein ratio" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000598" } ,
         "olabel": { "type": "literal" , "value": "protein content" }
       } ,
@@ -5299,12 +5275,6 @@
       {
         "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000907" } ,
         "xlabel": { "type": "literal" , "value": "exocarp thickness" } ,
-        "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002728" } ,
-        "olabel": { "type": "literal" , "value": "fruit quality trait" }
-      } ,
-      {
-        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002741" } ,
-        "xlabel": { "type": "literal" , "value": "grain surface area" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002728" } ,
         "olabel": { "type": "literal" , "value": "fruit quality trait" }
       } ,
@@ -8753,8 +8723,8 @@
         "olabel": { "type": "literal" , "value": "bud morphology trait" }
       } ,
       {
-        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000610" } ,
-        "xlabel": { "type": "literal" , "value": "soluble to total protein ratio" } ,
+        "x": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000325" } ,
+        "xlabel": { "type": "literal" , "value": "soluble protein content" } ,
         "o": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000490" } ,
         "olabel": { "type": "literal" , "value": "seed protein composition trait" }
       } ,
