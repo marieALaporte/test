@@ -1,0 +1,2804 @@
+{
+  "head": {
+    "vars": [ "to" , "tolabel" , "po" ]
+  } ,
+  "results": {
+    "bindings": [
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000789" } ,
+        "tolabel": { "type": "literal" , "value": "bud morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000055" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000656" } ,
+        "tolabel": { "type": "literal" , "value": "root development trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0007520" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000657" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000787" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence waxiness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000788" } ,
+        "tolabel": { "type": "literal" , "value": "tassel inflorescence morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020126" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020089" } ,
+        "tolabel": { "type": "literal" , "value": "iron content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000529" } ,
+        "tolabel": { "type": "literal" , "value": "abaxial stomatal frequency" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006019" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000529" } ,
+        "tolabel": { "type": "literal" , "value": "abaxial stomatal frequency" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0002000" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020083" } ,
+        "tolabel": { "type": "literal" , "value": "stem diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020090" } ,
+        "tolabel": { "type": "literal" , "value": "zinc content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020092" } ,
+        "tolabel": { "type": "literal" , "value": "copper content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020091" } ,
+        "tolabel": { "type": "literal" , "value": "manganese content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000021" } ,
+        "tolabel": { "type": "literal" , "value": "plant ovary morphology" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009072" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000020" } ,
+        "tolabel": { "type": "literal" , "value": "stipule length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020041" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000781" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000023" } ,
+        "tolabel": { "type": "literal" , "value": "lemma morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009037" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000022" } ,
+        "tolabel": { "type": "literal" , "value": "anther morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009066" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000784" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence branch morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009081" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000786" } ,
+        "tolabel": { "type": "literal" , "value": "reproductive shoot system morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025082" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000024" } ,
+        "tolabel": { "type": "literal" , "value": "palea morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000782" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence axis morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020122" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000783" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence axis size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020122" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000650" } ,
+        "tolabel": { "type": "literal" , "value": "lemma length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009037" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000777" } ,
+        "tolabel": { "type": "literal" , "value": "peduncle waxiness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009053" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000018" } ,
+        "tolabel": { "type": "literal" , "value": "stem epidermis color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025178" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000017" } ,
+        "tolabel": { "type": "literal" , "value": "stem cortex color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025612" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000775" } ,
+        "tolabel": { "type": "literal" , "value": "plant embryo cotyledon morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025470" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000774" } ,
+        "tolabel": { "type": "literal" , "value": "seedling cotyledon morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025471" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000641" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence primary branch length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009081" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000776" } ,
+        "tolabel": { "type": "literal" , "value": "peduncle morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009053" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000642" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020104" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000019" } ,
+        "tolabel": { "type": "literal" , "value": "disk flower color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025332" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000649" } ,
+        "tolabel": { "type": "literal" , "value": "peduncle width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009053" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000779" } ,
+        "tolabel": { "type": "literal" , "value": "peduncle color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009053" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020098" } ,
+        "tolabel": { "type": "literal" , "value": "nitrate sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020094" } ,
+        "tolabel": { "type": "literal" , "value": "nitrate content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020093" } ,
+        "tolabel": { "type": "literal" , "value": "nitrogen content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000011" } ,
+        "tolabel": { "type": "literal" , "value": "fruit position" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000010" } ,
+        "tolabel": { "type": "literal" , "value": "caruncle color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020060" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000013" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina lobe morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025517" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000772" } ,
+        "tolabel": { "type": "literal" , "value": "seedling mesocotyl morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025295" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000012" } ,
+        "tolabel": { "type": "literal" , "value": "whole plant size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000773" } ,
+        "tolabel": { "type": "literal" , "value": "embryo mesocotyl morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025294" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000016" } ,
+        "tolabel": { "type": "literal" , "value": "plant ovary color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009072" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000014" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina lobe length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025517" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000015" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina lobe width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025517" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000771" } ,
+        "tolabel": { "type": "literal" , "value": "embryo hypocotyl morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025290" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000547" } ,
+        "tolabel": { "type": "literal" , "value": "primary branch number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009081" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000006" } ,
+        "tolabel": { "type": "literal" , "value": "tuberous root tuber diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025476" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000678" } ,
+        "tolabel": { "type": "literal" , "value": "cob diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006505" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000411" } ,
+        "tolabel": { "type": "literal" , "value": "seed length to width ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000008" } ,
+        "tolabel": { "type": "literal" , "value": "branch position" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025073" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000546" } ,
+        "tolabel": { "type": "literal" , "value": "peduncle top diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009053" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000007" } ,
+        "tolabel": { "type": "literal" , "value": "tuberous root tuber morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025476" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000009" } ,
+        "tolabel": { "type": "literal" , "value": "branch angle" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025073" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000419" } ,
+        "tolabel": { "type": "literal" , "value": "vascular leaf morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000549" } ,
+        "tolabel": { "type": "literal" , "value": "rhizome morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004542" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000417" } ,
+        "tolabel": { "type": "literal" , "value": "lemma and palea pubescence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000676" } ,
+        "tolabel": { "type": "literal" , "value": "style color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009074" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000542" } ,
+        "tolabel": { "type": "literal" , "value": "leaf length to width ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000000" } ,
+        "tolabel": { "type": "literal" , "value": "stem internode bent" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020142" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000544" } ,
+        "tolabel": { "type": "literal" , "value": "mesocotyl length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020037" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000543" } ,
+        "tolabel": { "type": "literal" , "value": "leaf nitrogen content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000003" } ,
+        "tolabel": { "type": "literal" , "value": "shoot axis node color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005004" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000004" } ,
+        "tolabel": { "type": "literal" , "value": "infructescence position" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006342" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000540" } ,
+        "tolabel": { "type": "literal" , "value": "leaf area trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_1000002" } ,
+        "tolabel": { "type": "literal" , "value": "secondary xylem volumetric density" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005848" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000541" } ,
+        "tolabel": { "type": "literal" , "value": "leaf position" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000536" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet floret color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009082" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000799" } ,
+        "tolabel": { "type": "literal" , "value": "tassel inflorescence diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020126" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000534" } ,
+        "tolabel": { "type": "literal" , "value": "culm color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020142" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000400" } ,
+        "tolabel": { "type": "literal" , "value": "sterile lemma color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009040" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020078" } ,
+        "tolabel": { "type": "literal" , "value": "zeaxanthin content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000537" } ,
+        "tolabel": { "type": "literal" , "value": "flower color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000538" } ,
+        "tolabel": { "type": "literal" , "value": "large vascular bundle number to leaf area ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020079" } ,
+        "tolabel": { "type": "literal" , "value": "beta-cryptoxanthin content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000793" } ,
+        "tolabel": { "type": "literal" , "value": "axillary bud shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004709" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000790" } ,
+        "tolabel": { "type": "literal" , "value": "axillary bud morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004709" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000791" } ,
+        "tolabel": { "type": "literal" , "value": "axillary bud size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004709" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000797" } ,
+        "tolabel": { "type": "literal" , "value": "tassel inflorescence height" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020126" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000796" } ,
+        "tolabel": { "type": "literal" , "value": "tassel inflorescence circumference" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020126" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000530" } ,
+        "tolabel": { "type": "literal" , "value": "adaxial stomatal frequency" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006018" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000530" } ,
+        "tolabel": { "type": "literal" , "value": "adaxial stomatal frequency" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0002000" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000798" } ,
+        "tolabel": { "type": "literal" , "value": "tassel inflorescence length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020126" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000531" } ,
+        "tolabel": { "type": "literal" , "value": "anther length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009066" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000795" } ,
+        "tolabel": { "type": "literal" , "value": "tassel inflorescence color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020126" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000306" } ,
+        "tolabel": { "type": "literal" , "value": "root thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000304" } ,
+        "tolabel": { "type": "literal" , "value": "seed thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002709" } ,
+        "tolabel": { "type": "literal" , "value": "phloem color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005417" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002708" } ,
+        "tolabel": { "type": "literal" , "value": "xylem color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005352" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002707" } ,
+        "tolabel": { "type": "literal" , "value": "petiole color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000695" } ,
+        "tolabel": { "type": "literal" , "value": "leaf margin color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020128" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000563" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet length to width ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000567" } ,
+        "tolabel": { "type": "literal" , "value": "tiller angle" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000433" } ,
+        "tolabel": { "type": "literal" , "value": "ear diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000568" } ,
+        "tolabel": { "type": "literal" , "value": "shoot axis weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000431" } ,
+        "tolabel": { "type": "literal" , "value": "ear length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000564" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000566" } ,
+        "tolabel": { "type": "literal" , "value": "leaf stomatal complex frequency" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025183" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000557" } ,
+        "tolabel": { "type": "literal" , "value": "secondary branch number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006321" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000429" } ,
+        "tolabel": { "type": "literal" , "value": "salt sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000680" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence circumference" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000683" } ,
+        "tolabel": { "type": "literal" , "value": "ear infructescence position" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000681" } ,
+        "tolabel": { "type": "literal" , "value": "ear circumference" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000682" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence height" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000421" } ,
+        "tolabel": { "type": "literal" , "value": "pollen fertility" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025281" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000554" } ,
+        "tolabel": { "type": "literal" , "value": "rhizome internode length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025204" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000420" } ,
+        "tolabel": { "type": "literal" , "value": "fertility related trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000553" } ,
+        "tolabel": { "type": "literal" , "value": "rhizome length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004542" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002726" } ,
+        "tolabel": { "type": "literal" , "value": "sterile lemma shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009040" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002724" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020104" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002728" } ,
+        "tolabel": { "type": "literal" , "value": "fruit quality trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002727" } ,
+        "tolabel": { "type": "literal" , "value": "sterile lemma width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009040" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000582" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000583" } ,
+        "tolabel": { "type": "literal" , "value": "infructescence weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006342" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000581" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000586" } ,
+        "tolabel": { "type": "literal" , "value": "seminal root length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000587" } ,
+        "tolabel": { "type": "literal" , "value": "endosperm quality" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000452" } ,
+        "tolabel": { "type": "literal" , "value": "leaf area to spikelet number ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000452" } ,
+        "tolabel": { "type": "literal" , "value": "leaf area to spikelet number ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002721" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020104" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002720" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000326" } ,
+        "tolabel": { "type": "literal" , "value": "leaf color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000456" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002710" } ,
+        "tolabel": { "type": "literal" , "value": "root shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002718" } ,
+        "tolabel": { "type": "literal" , "value": "awn morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025349" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002717" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath auricle morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020106" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002719" } ,
+        "tolabel": { "type": "literal" , "value": "awn thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025349" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000574" } ,
+        "tolabel": { "type": "literal" , "value": "tepal color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000575" } ,
+        "tolabel": { "type": "literal" , "value": "endosperm morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000572" } ,
+        "tolabel": { "type": "literal" , "value": "petal color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009032" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000573" } ,
+        "tolabel": { "type": "literal" , "value": "sepal color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000443" } ,
+        "tolabel": { "type": "literal" , "value": "ear infructescence number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020136" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000577" } ,
+        "tolabel": { "type": "literal" , "value": "stem angle" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000576" } ,
+        "tolabel": { "type": "literal" , "value": "stem length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000445" } ,
+        "tolabel": { "type": "literal" , "value": "fruit seed number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000445" } ,
+        "tolabel": { "type": "literal" , "value": "fruit seed number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002617" } ,
+        "tolabel": { "type": "literal" , "value": "fruit color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002615" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002615" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009008" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002748" } ,
+        "tolabel": { "type": "literal" , "value": "ligule morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020105" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002614" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002614" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009008" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002619" } ,
+        "tolabel": { "type": "literal" , "value": "mesocarp color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009087" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002618" } ,
+        "tolabel": { "type": "literal" , "value": "endocarp color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009086" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0011003" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence axis color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020122" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0011004" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence branch color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009081" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0011007" } ,
+        "tolabel": { "type": "literal" , "value": "awn width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025349" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0011008" } ,
+        "tolabel": { "type": "literal" , "value": "stigma length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009073" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0011009" } ,
+        "tolabel": { "type": "literal" , "value": "style length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009074" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000470" } ,
+        "tolabel": { "type": "literal" , "value": "vascular tissue morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009015" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000472" } ,
+        "tolabel": { "type": "literal" , "value": "vascular bundle number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005020" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000345" } ,
+        "tolabel": { "type": "literal" , "value": "seed viability" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000479" } ,
+        "tolabel": { "type": "literal" , "value": "acid sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000210" } ,
+        "tolabel": { "type": "literal" , "value": "anther number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000210" } ,
+        "tolabel": { "type": "literal" , "value": "anther number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009066" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000476" } ,
+        "tolabel": { "type": "literal" , "value": "growth hormone content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002746" } ,
+        "tolabel": { "type": "literal" , "value": "fruit weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002610" } ,
+        "tolabel": { "type": "literal" , "value": "pistil length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009062" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000214" } ,
+        "tolabel": { "type": "literal" , "value": "anther shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009066" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002742" } ,
+        "tolabel": { "type": "literal" , "value": "fruit volume" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000215" } ,
+        "tolabel": { "type": "literal" , "value": "stamen morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000208" } ,
+        "tolabel": { "type": "literal" , "value": "lemma number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009037" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002738" } ,
+        "tolabel": { "type": "literal" , "value": "floret number per inflorescence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002738" } ,
+        "tolabel": { "type": "literal" , "value": "floret number per inflorescence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009082" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002605" } ,
+        "tolabel": { "type": "literal" , "value": "petal length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009032" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002604" } ,
+        "tolabel": { "type": "literal" , "value": "sepal size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000209" } ,
+        "tolabel": { "type": "literal" , "value": "palea number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002603" } ,
+        "tolabel": { "type": "literal" , "value": "petal size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009032" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002736" } ,
+        "tolabel": { "type": "literal" , "value": "flower number trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000206" } ,
+        "tolabel": { "type": "literal" , "value": "leaf angle" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000339" } ,
+        "tolabel": { "type": "literal" , "value": "stem thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002602" } ,
+        "tolabel": { "type": "literal" , "value": "pistil size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009062" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000207" } ,
+        "tolabel": { "type": "literal" , "value": "plant height" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002609" } ,
+        "tolabel": { "type": "literal" , "value": "stamen length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002608" } ,
+        "tolabel": { "type": "literal" , "value": "sepal width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002607" } ,
+        "tolabel": { "type": "literal" , "value": "sepal length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002606" } ,
+        "tolabel": { "type": "literal" , "value": "petal width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009032" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000200" } ,
+        "tolabel": { "type": "literal" , "value": "brittle culm" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002600" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002600" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009008" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002734" } ,
+        "tolabel": { "type": "literal" , "value": "awn presence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025349" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002601" } ,
+        "tolabel": { "type": "literal" , "value": "stamen size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000335" } ,
+        "tolabel": { "type": "literal" , "value": "ligule shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020105" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000493" } ,
+        "tolabel": { "type": "literal" , "value": "leaf composition trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000361" } ,
+        "tolabel": { "type": "literal" , "value": "stem morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000492" } ,
+        "tolabel": { "type": "literal" , "value": "leaf shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000231" } ,
+        "tolabel": { "type": "literal" , "value": "endospermless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000231" } ,
+        "tolabel": { "type": "literal" , "value": "endospermless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000364" } ,
+        "tolabel": { "type": "literal" , "value": "leaf collar color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006012" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000230" } ,
+        "tolabel": { "type": "literal" , "value": "crown rootless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000230" } ,
+        "tolabel": { "type": "literal" , "value": "crown rootless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000043" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002632" } ,
+        "tolabel": { "type": "literal" , "value": "fruit abscission zone size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006503" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000235" } ,
+        "tolabel": { "type": "literal" , "value": "liguleless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000235" } ,
+        "tolabel": { "type": "literal" , "value": "liguleless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020105" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000102" } ,
+        "tolabel": { "type": "literal" , "value": "phosphorus sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002631" } ,
+        "tolabel": { "type": "literal" , "value": "fruit proximal end shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0008002" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000233" } ,
+        "tolabel": { "type": "literal" , "value": "root volume" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000100" } ,
+        "tolabel": { "type": "literal" , "value": "shrunken endosperm" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000499" } ,
+        "tolabel": { "type": "literal" , "value": "flower morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002630" } ,
+        "tolabel": { "type": "literal" , "value": "fruit distal end shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0008001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000234" } ,
+        "tolabel": { "type": "literal" , "value": "radicleless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000234" } ,
+        "tolabel": { "type": "literal" , "value": "radicleless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002637" } ,
+        "tolabel": { "type": "literal" , "value": "leaf size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002636" } ,
+        "tolabel": { "type": "literal" , "value": "leaflet number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000108" } ,
+        "tolabel": { "type": "literal" , "value": "leaf shattering" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000105" } ,
+        "tolabel": { "type": "literal" , "value": "dull endosperm" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002768" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002635" } ,
+        "tolabel": { "type": "literal" , "value": "leaf margin morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020128" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002634" } ,
+        "tolabel": { "type": "literal" , "value": "fruit firmness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002629" } ,
+        "tolabel": { "type": "literal" , "value": "fruit morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002628" } ,
+        "tolabel": { "type": "literal" , "value": "fruit shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002627" } ,
+        "tolabel": { "type": "literal" , "value": "fruit width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002626" } ,
+        "tolabel": { "type": "literal" , "value": "fruit length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000490" } ,
+        "tolabel": { "type": "literal" , "value": "seed protein composition trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000480" } ,
+        "tolabel": { "type": "literal" , "value": "nutrient sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000486" } ,
+        "tolabel": { "type": "literal" , "value": "seed color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000351" } ,
+        "tolabel": { "type": "literal" , "value": "zinc sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000484" } ,
+        "tolabel": { "type": "literal" , "value": "seed shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002620" } ,
+        "tolabel": { "type": "literal" , "value": "exocarp color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009085" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000223" } ,
+        "tolabel": { "type": "literal" , "value": "pistil morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009062" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000224" } ,
+        "tolabel": { "type": "literal" , "value": "iron sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000225" } ,
+        "tolabel": { "type": "literal" , "value": "stamen number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009061" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000225" } ,
+        "tolabel": { "type": "literal" , "value": "stamen number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000354" } ,
+        "tolabel": { "type": "literal" , "value": "aluminum sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000221" } ,
+        "tolabel": { "type": "literal" , "value": "glume color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000487" } ,
+        "tolabel": { "type": "literal" , "value": "endosperm color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002625" } ,
+        "tolabel": { "type": "literal" , "value": "fruit size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002757" } ,
+        "tolabel": { "type": "literal" , "value": "flag leaf length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020103" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002624" } ,
+        "tolabel": { "type": "literal" , "value": "exocarp texture" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009085" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000226" } ,
+        "tolabel": { "type": "literal" , "value": "auricleless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000226" } ,
+        "tolabel": { "type": "literal" , "value": "auricleless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020106" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002623" } ,
+        "tolabel": { "type": "literal" , "value": "pericarp texture" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009084" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002754" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence axis texture" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020122" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002621" } ,
+        "tolabel": { "type": "literal" , "value": "fruit columella color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004540" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000227" } ,
+        "tolabel": { "type": "literal" , "value": "root length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000391" } ,
+        "tolabel": { "type": "literal" , "value": "seed size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000251" } ,
+        "tolabel": { "type": "literal" , "value": "secondary macronutrient sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000386" } ,
+        "tolabel": { "type": "literal" , "value": "rice ragged stunt virus resistance" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000257" } ,
+        "tolabel": { "type": "literal" , "value": "root branching" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000124" } ,
+        "tolabel": { "type": "literal" , "value": "flag leaf angle" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020103" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000258" } ,
+        "tolabel": { "type": "literal" , "value": "leaf thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002653" } ,
+        "tolabel": { "type": "literal" , "value": "endosperm storage protein content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002659" } ,
+        "tolabel": { "type": "literal" , "value": "pistil number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009062" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000240" } ,
+        "tolabel": { "type": "literal" , "value": "sterile lemma length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009040" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000373" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000370" } ,
+        "tolabel": { "type": "literal" , "value": "leaf width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000244" } ,
+        "tolabel": { "type": "literal" , "value": "coleoptile color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000241" } ,
+        "tolabel": { "type": "literal" , "value": "leaf number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009006" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000241" } ,
+        "tolabel": { "type": "literal" , "value": "leaf number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000248" } ,
+        "tolabel": { "type": "literal" , "value": "primary macronutrient sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000115" } ,
+        "tolabel": { "type": "literal" , "value": "root mass density" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000249" } ,
+        "tolabel": { "type": "literal" , "value": "leaf senescence trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000113" } ,
+        "tolabel": { "type": "literal" , "value": "giant embryo" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009009" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002649" } ,
+        "tolabel": { "type": "literal" , "value": "pesticide sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002672" } ,
+        "tolabel": { "type": "literal" , "value": "auxin content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000275" } ,
+        "tolabel": { "type": "literal" , "value": "perianth morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009058" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000010" } ,
+        "tolabel": { "type": "literal" , "value": "magnesium sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000140" } ,
+        "tolabel": { "type": "literal" , "value": "apiculus color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000141" } ,
+        "tolabel": { "type": "literal" , "value": "awn color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025349" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000274" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet floret morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009082" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000279" } ,
+        "tolabel": { "type": "literal" , "value": "root weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000146" } ,
+        "tolabel": { "type": "literal" , "value": "seed length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000011" } ,
+        "tolabel": { "type": "literal" , "value": "nitrogen sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000145" } ,
+        "tolabel": { "type": "literal" , "value": "internode length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020142" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000012" } ,
+        "tolabel": { "type": "literal" , "value": "hydrogen sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000278" } ,
+        "tolabel": { "type": "literal" , "value": "root to shoot ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000278" } ,
+        "tolabel": { "type": "literal" , "value": "root to shoot ratio" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009006" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000018" } ,
+        "tolabel": { "type": "literal" , "value": "boron sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000015" } ,
+        "tolabel": { "type": "literal" , "value": "oxygen sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000149" } ,
+        "tolabel": { "type": "literal" , "value": "seed width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000016" } ,
+        "tolabel": { "type": "literal" , "value": "cobalt sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000017" } ,
+        "tolabel": { "type": "literal" , "value": "plant morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025131" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000271" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000270" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence axis angle" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020122" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000264" } ,
+        "tolabel": { "type": "literal" , "value": "lemma and palea color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000001" } ,
+        "tolabel": { "type": "literal" , "value": "carbon sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000268" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000135" } ,
+        "tolabel": { "type": "literal" , "value": "leaf length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000398" } ,
+        "tolabel": { "type": "literal" , "value": "whole plant morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000006" } ,
+        "tolabel": { "type": "literal" , "value": "calcium sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000007" } ,
+        "tolabel": { "type": "literal" , "value": "sulfur sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000003" } ,
+        "tolabel": { "type": "literal" , "value": "alkali soil sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002667" } ,
+        "tolabel": { "type": "literal" , "value": "abscisic acid content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002665" } ,
+        "tolabel": { "type": "literal" , "value": "root hair length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000256" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000008" } ,
+        "tolabel": { "type": "literal" , "value": "potassium sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006008" } ,
+        "tolabel": { "type": "literal" , "value": "carbohydrate derivative content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006009" } ,
+        "tolabel": { "type": "literal" , "value": "lodicule morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009036" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000172" } ,
+        "tolabel": { "type": "literal" , "value": "jasmonic acid sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000173" } ,
+        "tolabel": { "type": "literal" , "value": "ethylene sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000033" } ,
+        "tolabel": { "type": "literal" , "value": "iodine sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000299" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000167" } ,
+        "tolabel": { "type": "literal" , "value": "cytokinin sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000034" } ,
+        "tolabel": { "type": "literal" , "value": "chromium sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002694" } ,
+        "tolabel": { "type": "literal" , "value": "fruit flavor trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000297" } ,
+        "tolabel": { "type": "literal" , "value": "glucosamine content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000031" } ,
+        "tolabel": { "type": "literal" , "value": "silicon sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000032" } ,
+        "tolabel": { "type": "literal" , "value": "selenium sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000038" } ,
+        "tolabel": { "type": "literal" , "value": "fluorine sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000035" } ,
+        "tolabel": { "type": "literal" , "value": "incompatibility trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000291" } ,
+        "tolabel": { "type": "literal" , "value": "carbohydrate content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000290" } ,
+        "tolabel": { "type": "literal" , "value": "flavonoid content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002691" } ,
+        "tolabel": { "type": "literal" , "value": "peduncle length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009053" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000163" } ,
+        "tolabel": { "type": "literal" , "value": "auxin sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002690" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000160" } ,
+        "tolabel": { "type": "literal" , "value": "UV light sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000161" } ,
+        "tolabel": { "type": "literal" , "value": "radiation response trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000294" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath auricle color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020106" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002684" } ,
+        "tolabel": { "type": "literal" , "value": "plant cell size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009002" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000021" } ,
+        "tolabel": { "type": "literal" , "value": "copper sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002683" } ,
+        "tolabel": { "type": "literal" , "value": "plant cell morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009002" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002682" } ,
+        "tolabel": { "type": "literal" , "value": "plant cell shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009002" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000025" } ,
+        "tolabel": { "type": "literal" , "value": "molybdenum sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000158" } ,
+        "tolabel": { "type": "literal" , "value": "red light sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000159" } ,
+        "tolabel": { "type": "literal" , "value": "blue light sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002689" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020104" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000289" } ,
+        "tolabel": { "type": "literal" , "value": "carotene content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000024" } ,
+        "tolabel": { "type": "literal" , "value": "ligule length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020105" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0002685" } ,
+        "tolabel": { "type": "literal" , "value": "crown root number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000043" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000029" } ,
+        "tolabel": { "type": "literal" , "value": "chlorine sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000190" } ,
+        "tolabel": { "type": "literal" , "value": "seed coat color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009088" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006028" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence bract number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009054" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0012002" } ,
+        "tolabel": { "type": "literal" , "value": "leaf chlorophyll content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006029" } ,
+        "tolabel": { "type": "literal" , "value": "glume number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000061" } ,
+        "tolabel": { "type": "literal" , "value": "node shattering" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020141" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000194" } ,
+        "tolabel": { "type": "literal" , "value": "globular embryo" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009009" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000195" } ,
+        "tolabel": { "type": "literal" , "value": "shootless embryo" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000195" } ,
+        "tolabel": { "type": "literal" , "value": "shootless embryo" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009006" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000193" } ,
+        "tolabel": { "type": "literal" , "value": "embryo shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009009" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000065" } ,
+        "tolabel": { "type": "literal" , "value": "root color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000198" } ,
+        "tolabel": { "type": "literal" , "value": "rootless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000198" } ,
+        "tolabel": { "type": "literal" , "value": "rootless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000196" } ,
+        "tolabel": { "type": "literal" , "value": "amylose content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000064" } ,
+        "tolabel": { "type": "literal" , "value": "plant embryo morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009009" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000197" } ,
+        "tolabel": { "type": "literal" , "value": "ligule color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020105" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000058" } ,
+        "tolabel": { "type": "literal" , "value": "herbicide sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000055" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina pubescence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000188" } ,
+        "tolabel": { "type": "literal" , "value": "drought sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000189" } ,
+        "tolabel": { "type": "literal" , "value": "embryoless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000189" } ,
+        "tolabel": { "type": "literal" , "value": "embryoless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009009" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000056" } ,
+        "tolabel": { "type": "literal" , "value": "stem color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000059" } ,
+        "tolabel": { "type": "literal" , "value": "node color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020141" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006026" } ,
+        "tolabel": { "type": "literal" , "value": "floral bract number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006015" } ,
+        "tolabel": { "type": "literal" , "value": "plant tissue development trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025423" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000182" } ,
+        "tolabel": { "type": "literal" , "value": "insecticide sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000050" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence branching" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000180" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet fertility" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000181" } ,
+        "tolabel": { "type": "literal" , "value": "seed weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000187" } ,
+        "tolabel": { "type": "literal" , "value": "anther color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009066" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000051" } ,
+        "tolabel": { "type": "literal" , "value": "stem strength" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000184" } ,
+        "tolabel": { "type": "literal" , "value": "seed morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000185" } ,
+        "tolabel": { "type": "literal" , "value": "stigma color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009073" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000178" } ,
+        "tolabel": { "type": "literal" , "value": "acid soil sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000043" } ,
+        "tolabel": { "type": "literal" , "value": "root morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000176" } ,
+        "tolabel": { "type": "literal" , "value": "macronutrient sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006012" } ,
+        "tolabel": { "type": "literal" , "value": "carpel morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009030" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006011" } ,
+        "tolabel": { "type": "literal" , "value": "lodicule shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009036" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006013" } ,
+        "tolabel": { "type": "literal" , "value": "carpel number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009030" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006010" } ,
+        "tolabel": { "type": "literal" , "value": "lodicule number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009036" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000080" } ,
+        "tolabel": { "type": "literal" , "value": "micronutrient sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000920" } ,
+        "tolabel": { "type": "literal" , "value": "infructescence morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006342" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000084" } ,
+        "tolabel": { "type": "literal" , "value": "root number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000084" } ,
+        "tolabel": { "type": "literal" , "value": "root number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000923" } ,
+        "tolabel": { "type": "literal" , "value": "ear weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000921" } ,
+        "tolabel": { "type": "literal" , "value": "infructescence axis morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025242" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000088" } ,
+        "tolabel": { "type": "literal" , "value": "rice yellow mottle virus resistance" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006040" } ,
+        "tolabel": { "type": "literal" , "value": "sepal number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001013" } ,
+        "tolabel": { "type": "literal" , "value": "lateral root number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020121" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000916" } ,
+        "tolabel": { "type": "literal" , "value": "trichome clavate" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000282" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006042" } ,
+        "tolabel": { "type": "literal" , "value": "lithium concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000079" } ,
+        "tolabel": { "type": "literal" , "value": "flower bract morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006041" } ,
+        "tolabel": { "type": "literal" , "value": "tepal number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001012" } ,
+        "tolabel": { "type": "literal" , "value": "lateral root length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020121" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006048" } ,
+        "tolabel": { "type": "literal" , "value": "manganese concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006047" } ,
+        "tolabel": { "type": "literal" , "value": "calcium concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006049" } ,
+        "tolabel": { "type": "literal" , "value": "iron concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006044" } ,
+        "tolabel": { "type": "literal" , "value": "magnesium concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006043" } ,
+        "tolabel": { "type": "literal" , "value": "boron concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006046" } ,
+        "tolabel": { "type": "literal" , "value": "sulfur concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006045" } ,
+        "tolabel": { "type": "literal" , "value": "phosphorus concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006039" } ,
+        "tolabel": { "type": "literal" , "value": "petal number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009032" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000073" } ,
+        "tolabel": { "type": "literal" , "value": "manganese sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000072" } ,
+        "tolabel": { "type": "literal" , "value": "awn length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025349" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000077" } ,
+        "tolabel": { "type": "literal" , "value": "shoot system morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009006" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000911" } ,
+        "tolabel": { "type": "literal" , "value": "trichome morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000282" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000075" } ,
+        "tolabel": { "type": "literal" , "value": "light sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000903" } ,
+        "tolabel": { "type": "literal" , "value": "seed coat texture" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009088" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000069" } ,
+        "tolabel": { "type": "literal" , "value": "variegated leaf" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001001" } ,
+        "tolabel": { "type": "literal" , "value": "glume persistence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001001" } ,
+        "tolabel": { "type": "literal" , "value": "glume persistence" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000907" } ,
+        "tolabel": { "type": "literal" , "value": "exocarp thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009085" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001005" } ,
+        "tolabel": { "type": "literal" , "value": "basal tiller length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001007" } ,
+        "tolabel": { "type": "literal" , "value": "coleoptile length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020107" } ,
+        "tolabel": { "type": "literal" , "value": "plant cell length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009002" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000906" } ,
+        "tolabel": { "type": "literal" , "value": "exocarp morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009085" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001004" } ,
+        "tolabel": { "type": "literal" , "value": "basal tiller number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020106" } ,
+        "tolabel": { "type": "literal" , "value": "Indole-3-acetic acid content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006037" } ,
+        "tolabel": { "type": "literal" , "value": "carpel shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009030" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006031" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020102" } ,
+        "tolabel": { "type": "literal" , "value": "phosphate content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006033" } ,
+        "tolabel": { "type": "literal" , "value": "floret number per spikelet" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006033" } ,
+        "tolabel": { "type": "literal" , "value": "floret number per spikelet" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009082" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000810" } ,
+        "tolabel": { "type": "literal" , "value": "pseudostem color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025248" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000943" } ,
+        "tolabel": { "type": "literal" , "value": "aleurone layer color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005360" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000811" } ,
+        "tolabel": { "type": "literal" , "value": "pseudostem diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025248" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000942" } ,
+        "tolabel": { "type": "literal" , "value": "aleurone layer morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0005360" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000948" } ,
+        "tolabel": { "type": "literal" , "value": "mesocarp morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009087" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000815" } ,
+        "tolabel": { "type": "literal" , "value": "bract morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009055" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000945" } ,
+        "tolabel": { "type": "literal" , "value": "pericarp morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009084" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000946" } ,
+        "tolabel": { "type": "literal" , "value": "endocarp morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009086" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000807" } ,
+        "tolabel": { "type": "literal" , "value": "pseudostem morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025248" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006063" } ,
+        "tolabel": { "type": "literal" , "value": "leaf margin serrated" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020128" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000804" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001035" } ,
+        "tolabel": { "type": "literal" , "value": "stem width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000805" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence texture" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006065" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000808" } ,
+        "tolabel": { "type": "literal" , "value": "pseudostem length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025248" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000809" } ,
+        "tolabel": { "type": "literal" , "value": "pseudostem shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025248" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000094" } ,
+        "tolabel": { "type": "literal" , "value": "basal root thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025002" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000098" } ,
+        "tolabel": { "type": "literal" , "value": "glutinous endosperm" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000802" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000803" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000801" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence depth" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009049" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006052" } ,
+        "tolabel": { "type": "literal" , "value": "copper concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000925" } ,
+        "tolabel": { "type": "literal" , "value": "non-vascular leaf morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025075" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006054" } ,
+        "tolabel": { "type": "literal" , "value": "arsenic concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006053" } ,
+        "tolabel": { "type": "literal" , "value": "zinc concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0001024" } ,
+        "tolabel": { "type": "literal" , "value": "phosphorus content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006050" } ,
+        "tolabel": { "type": "literal" , "value": "cobalt concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006059" } ,
+        "tolabel": { "type": "literal" , "value": "cadmium concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006056" } ,
+        "tolabel": { "type": "literal" , "value": "molybdenum concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0006055" } ,
+        "tolabel": { "type": "literal" , "value": "selenium concentration" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000830" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina margin morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025009" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000963" } ,
+        "tolabel": { "type": "literal" , "value": "ear color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000964" } ,
+        "tolabel": { "type": "literal" , "value": "ear shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000834" } ,
+        "tolabel": { "type": "literal" , "value": "phyllome margin morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025018" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000967" } ,
+        "tolabel": { "type": "literal" , "value": "hilum morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020063" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000968" } ,
+        "tolabel": { "type": "literal" , "value": "hilum color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020063" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000835" } ,
+        "tolabel": { "type": "literal" , "value": "leaf sheath morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020104" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000832" } ,
+        "tolabel": { "type": "literal" , "value": "flag leaf morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020103" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000833" } ,
+        "tolabel": { "type": "literal" , "value": "organ margin morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025005" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000838" } ,
+        "tolabel": { "type": "literal" , "value": "seed coat morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009088" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000839" } ,
+        "tolabel": { "type": "literal" , "value": "plant structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000836" } ,
+        "tolabel": { "type": "literal" , "value": "multi-tissue plant structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025496" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000969" } ,
+        "tolabel": { "type": "literal" , "value": "ear inflorescence morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020136" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000829" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000951" } ,
+        "tolabel": { "type": "literal" , "value": "corolla color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009059" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000950" } ,
+        "tolabel": { "type": "literal" , "value": "corolla morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009059" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000952" } ,
+        "tolabel": { "type": "literal" , "value": "stem weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000822" } ,
+        "tolabel": { "type": "literal" , "value": "leaf midvein morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020139" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000823" } ,
+        "tolabel": { "type": "literal" , "value": "leaf midvein thickness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020139" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000954" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet rachilla morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009080" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000826" } ,
+        "tolabel": { "type": "literal" , "value": "leaf volume" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000827" } ,
+        "tolabel": { "type": "literal" , "value": "leaf lamina area" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000825" } ,
+        "tolabel": { "type": "literal" , "value": "leaf flexibility" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000819" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence bract color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009054" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000816" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence bract morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009054" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000817" } ,
+        "tolabel": { "type": "literal" , "value": "inflorescence bract length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009054" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020016" } ,
+        "tolabel": { "type": "literal" , "value": "seed texture" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000985" } ,
+        "tolabel": { "type": "literal" , "value": "root system morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000858" } ,
+        "tolabel": { "type": "literal" , "value": "flower diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000725" } ,
+        "tolabel": { "type": "literal" , "value": "megasporocyte number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000431" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000726" } ,
+        "tolabel": { "type": "literal" , "value": "microsporocyte number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000859" } ,
+        "tolabel": { "type": "literal" , "value": "flower shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000856" } ,
+        "tolabel": { "type": "literal" , "value": "lodicule length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009036" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000719" } ,
+        "tolabel": { "type": "literal" , "value": "leaf vein color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020138" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020119" } ,
+        "tolabel": { "type": "literal" , "value": "violaxanthin content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020118" } ,
+        "tolabel": { "type": "literal" , "value": "neoxanthin content" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000842" } ,
+        "tolabel": { "type": "literal" , "value": "collective plant organ structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025007" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000843" } ,
+        "tolabel": { "type": "literal" , "value": "portion of plant tissue morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009007" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000976" } ,
+        "tolabel": { "type": "literal" , "value": "ear infructescence morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025597" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000973" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet rachilla shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009080" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000972" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet rachilla length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009080" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000841" } ,
+        "tolabel": { "type": "literal" , "value": "collective organ part structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025269" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000840" } ,
+        "tolabel": { "type": "literal" , "value": "collective plant structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025497" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000979" } ,
+        "tolabel": { "type": "literal" , "value": "involucre morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009100" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000713" } ,
+        "tolabel": { "type": "literal" , "value": "brittle endosperm" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000714" } ,
+        "tolabel": { "type": "literal" , "value": "seminal rootless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009011" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000714" } ,
+        "tolabel": { "type": "literal" , "value": "seminal rootless" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000844" } ,
+        "tolabel": { "type": "literal" , "value": "in vitro plant structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000004" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000711" } ,
+        "tolabel": { "type": "literal" , "value": "imidazolinone sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000845" } ,
+        "tolabel": { "type": "literal" , "value": "collective phyllome structure morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025023" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000978" } ,
+        "tolabel": { "type": "literal" , "value": "glume shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000717" } ,
+        "tolabel": { "type": "literal" , "value": "rough endosperm" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009089" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000718" } ,
+        "tolabel": { "type": "literal" , "value": "wrinkled seed" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000848" } ,
+        "tolabel": { "type": "literal" , "value": "fruit diameter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000715" } ,
+        "tolabel": { "type": "literal" , "value": "fascicled ear" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020136" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000707" } ,
+        "tolabel": { "type": "literal" , "value": "pericarp color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009084" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000708" } ,
+        "tolabel": { "type": "literal" , "value": "plant color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000873" } ,
+        "tolabel": { "type": "literal" , "value": "leaf prostrate" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000740" } ,
+        "tolabel": { "type": "literal" , "value": "branch morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025073" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000742" } ,
+        "tolabel": { "type": "literal" , "value": "subterranean shoot axis tuber morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004547" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000741" } ,
+        "tolabel": { "type": "literal" , "value": "tuber morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025522" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000872" } ,
+        "tolabel": { "type": "literal" , "value": "leaf erect" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000878" } ,
+        "tolabel": { "type": "literal" , "value": "spine leaf color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025173" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000612" } ,
+        "tolabel": { "type": "literal" , "value": "grain density" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000746" } ,
+        "tolabel": { "type": "literal" , "value": "subterranean shoot axis tuber mass" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004547" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000876" } ,
+        "tolabel": { "type": "literal" , "value": "spine leaf morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025173" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000743" } ,
+        "tolabel": { "type": "literal" , "value": "subterranean shoot axis tuber shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004547" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000877" } ,
+        "tolabel": { "type": "literal" , "value": "spine leaf size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025173" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000744" } ,
+        "tolabel": { "type": "literal" , "value": "subterranean shoot axis tuber size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0004547" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000749" } ,
+        "tolabel": { "type": "literal" , "value": "cotyledon morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020030" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000616" } ,
+        "tolabel": { "type": "literal" , "value": "leaf perimeter" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009025" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000747" } ,
+        "tolabel": { "type": "literal" , "value": "phyllome morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0006001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000614" } ,
+        "tolabel": { "type": "literal" , "value": "lemma shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009037" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000748" } ,
+        "tolabel": { "type": "literal" , "value": "leaf morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000615" } ,
+        "tolabel": { "type": "literal" , "value": "abscisic acid sensitivity" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0000003" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000994" } ,
+        "tolabel": { "type": "literal" , "value": "androecium morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009061" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000863" } ,
+        "tolabel": { "type": "literal" , "value": "petal morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009032" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000862" } ,
+        "tolabel": { "type": "literal" , "value": "floral organ morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025395" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000860" } ,
+        "tolabel": { "type": "literal" , "value": "flower length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009046" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000866" } ,
+        "tolabel": { "type": "literal" , "value": "sporophyll morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009026" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000867" } ,
+        "tolabel": { "type": "literal" , "value": "megasporophyll morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009027" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000864" } ,
+        "tolabel": { "type": "literal" , "value": "sepal morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009031" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000865" } ,
+        "tolabel": { "type": "literal" , "value": "tepal morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000738" } ,
+        "tolabel": { "type": "literal" , "value": "plant axis morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025004" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000868" } ,
+        "tolabel": { "type": "literal" , "value": "microsporophyll morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009028" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000869" } ,
+        "tolabel": { "type": "literal" , "value": "glume morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000736" } ,
+        "tolabel": { "type": "literal" , "value": "plant organ morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009008" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000739" } ,
+        "tolabel": { "type": "literal" , "value": "shoot axis morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025029" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000898" } ,
+        "tolabel": { "type": "literal" , "value": "root nodule morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0003023" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000765" } ,
+        "tolabel": { "type": "literal" , "value": "petiole morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000766" } ,
+        "tolabel": { "type": "literal" , "value": "petiole length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000899" } ,
+        "tolabel": { "type": "literal" , "value": "root nodule weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0003023" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000762" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl purple" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000764" } ,
+        "tolabel": { "type": "literal" , "value": "stalk morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025066" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000763" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl dark purple" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000630" } ,
+        "tolabel": { "type": "literal" , "value": "pedicel length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009052" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000769" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000504" } ,
+        "tolabel": { "type": "literal" , "value": "leaf temperature" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000767" } ,
+        "tolabel": { "type": "literal" , "value": "petiole shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000634" } ,
+        "tolabel": { "type": "literal" , "value": "stem node number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000634" } ,
+        "tolabel": { "type": "literal" , "value": "stem node number" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020141" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000501" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000768" } ,
+        "tolabel": { "type": "literal" , "value": "petiole size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020038" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000505" } ,
+        "tolabel": { "type": "literal" , "value": "leaf weight" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025034" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000639" } ,
+        "tolabel": { "type": "literal" , "value": "seed fertility" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009010" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000893" } ,
+        "tolabel": { "type": "literal" , "value": "stem shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000760" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl green" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000892" } ,
+        "tolabel": { "type": "literal" , "value": "stem size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009047" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000753" } ,
+        "tolabel": { "type": "literal" , "value": "coleoptile morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020033" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000886" } ,
+        "tolabel": { "type": "literal" , "value": "petiolule shape" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020050" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000752" } ,
+        "tolabel": { "type": "literal" , "value": "seedling cotyledon size" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025471" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020034" } ,
+        "tolabel": { "type": "literal" , "value": "glume width" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000887" } ,
+        "tolabel": { "type": "literal" , "value": "petiolule length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020050" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000754" } ,
+        "tolabel": { "type": "literal" , "value": "cardinal organ part morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025001" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020033" } ,
+        "tolabel": { "type": "literal" , "value": "glume length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000750" } ,
+        "tolabel": { "type": "literal" , "value": "seedling cotyledon color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025471" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000885" } ,
+        "tolabel": { "type": "literal" , "value": "petiolule color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020050" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000884" } ,
+        "tolabel": { "type": "literal" , "value": "petiolule morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020050" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000757" } ,
+        "tolabel": { "type": "literal" , "value": "hypocotyl morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020100" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000758" } ,
+        "tolabel": { "type": "literal" , "value": "mesocotyl morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020037" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000625" } ,
+        "tolabel": { "type": "literal" , "value": "spikelet density" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009051" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000889" } ,
+        "tolabel": { "type": "literal" , "value": "seed coat hardness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009088" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000756" } ,
+        "tolabel": { "type": "literal" , "value": "stem internode morphology trait" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0020142" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000623" } ,
+        "tolabel": { "type": "literal" , "value": "involucre bristle length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009100" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000759" } ,
+        "tolabel": { "type": "literal" , "value": "seedling hypocotyl color" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0025291" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0020038" } ,
+        "tolabel": { "type": "literal" , "value": "glume waxiness" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009039" }
+      } ,
+      {
+        "to": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/TO_0000880" } ,
+        "tolabel": { "type": "literal" , "value": "seed coat length" } ,
+        "po": { "type": "uri" , "value": "http://purl.obolibrary.org/obo/PO_0009088" }
+      }
+    ]
+  }
+}
